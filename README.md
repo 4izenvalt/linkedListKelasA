@@ -33,4 +33,10 @@ File ini menggunakan syntax `markdown`. Kolaborasi mahasiswa STIKI kelas pemrogr
     - Alfin Novri Falahin, 151111080 (https://github.com/alfinstikimalang)
     - Aryo Wibowo, 151111089 (https://github.com/Aryow)
 * `insert(Node newNode, Node position)` 6 orang
+    - Adih Suryatama , 151111079 (https://github.com/4izenvalt)
+    - frederico ,151111047(https://github.com/frederico97)
+    - MartinoAndy,151111040 https://github.com/Martino132)
+    - Muhshi Chakra d, 151111114 (https://github.com/muhshicd)
+    - Syihab, 151111039 (https://github.com/AriesSyihab10)
+    - Firda Riant Perdana P, 151111054 (http://github.com/firdariant)
 * `delete(Node position)` // 6 orang
